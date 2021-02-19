@@ -1,0 +1,19 @@
+{
+  "name": "discord-rpc",
+  "version": "0.0.1",
+  "description": "Discord RPC Package for npm/yarn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HidekiHrk/discord-rpc.git"
+  },
+  "author": "HidekiHrk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HidekiHrk/discord-rpc/issues"
+  },
+  "homepage": "https://github.com/HidekiHrk/discord-rpc#readme"
+}
