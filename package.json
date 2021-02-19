@@ -1,5 +1,5 @@
 {
-  "name": "discord-rpc",
+  "name": "@hidekihrk/discord-rpc",
   "version": "0.0.1",
   "description": "Discord RPC Package for npm/yarn",
   "main": "index.js",
